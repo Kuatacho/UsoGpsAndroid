@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">UsoGpsAndroid</string>
     <string name="btn_habilitar">este boton activa el gps</string>
+
+    <!--recursos utiles para la configuracion de su ventana de dialogo-->
+    <string name="alert_dialog_title">Desea habilitar el GPS</string>
+    <string name="alert_dialog_description">Esta aplicacion necesita utilizar el servicio GPS. HABLITALO!</string>
+    <string name="alert_dialog_button_accept">Habilitar</string>
+    <string name="alert_dialog_denny">Ignorar</string>
+
 </resources>
