@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UsoGpsAndroid</string>
+    <string name="btn_habilitar">este boton activa el gps</string>
+</resources>
